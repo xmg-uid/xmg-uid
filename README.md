@@ -35,20 +35,6 @@
 
 ---
 
-## An Axiom for Understanding
-
-$$
-\forall\, x \in \text{human expression}, \quad \text{emotion}(x)\ \text{is signal, not noise}
-$$
-
-**「营销教我倾听人，AI 教我倾听数据 —— 对象在变，倾听不变。」**
-
-Every review, every post, every late-night rant on Weibo is a compressed human
-feeling. My job — whether as a marketer or as an AI engineer — is to decompress
-it faithfully. Models will keep changing; the listening doesn't.
-
----
-
 ## Projects
 
 | Project | What it does |
