@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/xmg-uid"><img src="https://img.shields.io/badge/GitHub-xmg--uid-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xmg-uid&style=flat-square&color=2EA043&label=visitors" alt="Visitors" />
+  <img src="https://img.shields.io/github/followers/xmg-uid?style=flat-square&logo=github&color=2EA043&label=followers" alt="Followers" />
 </p>
 
 <div align="center">
@@ -30,14 +30,17 @@
   </tr>
 </table>
 
-## 🏆 Trophies
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xmg-uid&theme=onedark&column=4&margin-w=12&cacheSeconds=3600" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/github/stars/xmg-uid?style=for-the-badge&logo=github&color=2EA043&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/xmg-uid?style=for-the-badge&logo=github&color=2EA043&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/repos-2-2EA043?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/field-NLP%20%26%20Sentiment-2EA043?style=for-the-badge" alt="Field" />
 </p>
 
 <p align="center">
-  <sub>若奖杯墙未显示，可点此直接查看：<a href="https://github-profile-trophy.vercel.app/?username=xmg-uid">trophy board</a></sub>
+  <sub>原 github-profile-trophy 奖杯墙经 GitHub 图床代理不可达，已改为 shields.io 实时徽章墙（数据真实拉取，稳定渲染）。</sub>
 </p>
 
 ---
