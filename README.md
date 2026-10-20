@@ -47,7 +47,7 @@
 
 ## About Me
 
-- 📊 Started in **Marketing**, now transitioning into **AI** — learning to read human emotion at scale with NLP  
+- 📊 Started in **Marketing**, now transitioning into **AI**  
   我从市场营销开始，现在正转向人工智能领域
 - 🌱 Currently deepening: Deep Learning · LLM toolchain · Data Storytelling  
   目前正在深入探讨：深度学习 · LLM 工具链 · 数据叙事
