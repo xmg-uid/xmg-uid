@@ -49,12 +49,6 @@
 
 - 📊 Started in **Marketing**, now transitioning into **AI** — learning to read human emotion at scale with NLP  
   我从市场营销开始，现在正转向人工智能领域
-- 🔍 Research interests: **Sentiment Analysis · Public Opinion Mining · Topic Modeling · LLM-based Evaluation**  
-  研究方向：情感分析 · 舆情挖掘 · 主题建模 · 基于 LLM 的评估
-- 🚗 Built a public-opinion analysis of the **Xiaomi SU7 incident** (Weibo data, BERTopic + sentiment analysis)  
-  构建了小米 SU7 事件舆情分析（微博数据，BERTopic + 情感分析）
-- 🧩 Built a **multi-angle ABSA evaluator** that reviews products from multiple perspectives  
-  构建了多角度 ABSA 评价工具，从多个维度评估商品评论
 - 🌱 Currently deepening: Deep Learning · LLM toolchain · Data Storytelling  
   目前正在深入探讨：深度学习 · LLM 工具链 · 数据叙事
 
