@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://github.com/xmg-uid"><img src="https://img.shields.io/badge/GitHub-xmg--uid-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/xmg-uid?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-2EA043?style=flat-square&logo=githubsquares&logoColor=white" alt="Repos" /></a>
   <img src="https://komarev.com/ghpvc/?username=xmg-uid&style=flat-square&color=2EA043&label=visitors" alt="Visitors" />
 </p>
 
@@ -18,9 +17,24 @@
 
 *"From persuading hearts to parsing them — same curiosity, better tools."*
 
-*Still converging — and that's exactly what excites me.*
-
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=xmg-uid&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmg-uid&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xmg-uid&theme=onedark&column=7&margin-w=12&no-frame=true" alt="Trophies" />
+</p>
 
 ---
 
@@ -35,7 +49,7 @@
 
 ---
 
-## Projects
+## 🚀 Projects
 
 | Project | What it does |
 | --- | --- |
@@ -44,7 +58,7 @@
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -56,11 +70,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
----
-
-<div align="center">
-
-*"The tools change. The listening doesn't."*
-
-</div>
