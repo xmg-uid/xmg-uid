@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=560&lines=From+Marketing+to+AI;Reading+human+emotion+through+data;Future%3A+AI+that+listens+before+it+speaks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=560&lines=Marketing+%E2%86%92+AI;Adapting+to+the+times;Wielding+better+tools;Never+stop+growing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-*"From persuading hearts to parsing them — same curiosity, better tools."*
+*"顺应时代，用好工具，持续成长。"*
 
 </div>
 
@@ -33,7 +33,11 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xmg-uid&theme=onedark&column=7&margin-w=12&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xmg-uid&theme=onedark&column=4&margin-w=12&cacheSeconds=3600" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <sub>若奖杯墙未显示，可点此直接查看：<a href="https://github-profile-trophy.vercel.app/?username=xmg-uid">trophy board</a></sub>
 </p>
 
 ---
